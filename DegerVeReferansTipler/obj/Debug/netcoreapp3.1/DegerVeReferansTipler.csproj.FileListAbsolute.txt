@@ -1,0 +1,13 @@
+C:\Users\samil\Desktop\C#Camp\CampIntro\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.exe
+C:\Users\samil\Desktop\C#Camp\CampIntro\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.deps.json
+C:\Users\samil\Desktop\C#Camp\CampIntro\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.runtimeconfig.json
+C:\Users\samil\Desktop\C#Camp\CampIntro\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.runtimeconfig.dev.json
+C:\Users\samil\Desktop\C#Camp\CampIntro\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.dll
+C:\Users\samil\Desktop\C#Camp\CampIntro\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.pdb
+C:\Users\samil\Desktop\C#Camp\CampIntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.csprojAssemblyReference.cache
+C:\Users\samil\Desktop\C#Camp\CampIntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.AssemblyInfoInputs.cache
+C:\Users\samil\Desktop\C#Camp\CampIntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.AssemblyInfo.cs
+C:\Users\samil\Desktop\C#Camp\CampIntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\samil\Desktop\C#Camp\CampIntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.dll
+C:\Users\samil\Desktop\C#Camp\CampIntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.pdb
+C:\Users\samil\Desktop\C#Camp\CampIntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.genruntimeconfig.cache

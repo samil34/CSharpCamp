@@ -1,0 +1,12 @@
+C:\Users\samil\Desktop\C#Camp\CampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.exe
+C:\Users\samil\Desktop\C#Camp\CampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.deps.json
+C:\Users\samil\Desktop\C#Camp\CampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.json
+C:\Users\samil\Desktop\C#Camp\CampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.dev.json
+C:\Users\samil\Desktop\C#Camp\CampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.dll
+C:\Users\samil\Desktop\C#Camp\CampIntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.pdb
+C:\Users\samil\Desktop\C#Camp\CampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfoInputs.cache
+C:\Users\samil\Desktop\C#Camp\CampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfo.cs
+C:\Users\samil\Desktop\C#Camp\CampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\samil\Desktop\C#Camp\CampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.dll
+C:\Users\samil\Desktop\C#Camp\CampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.pdb
+C:\Users\samil\Desktop\C#Camp\CampIntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.genruntimeconfig.cache
